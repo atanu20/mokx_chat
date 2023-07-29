@@ -16,7 +16,7 @@ const ChatDet = () => {
     <div className="chat_Details">
         <div className="indi_chat_itemss">
         <i class="fa fa-long-arrow-left mr-4 cur" onClick={()=>his.push("/chat")} aria-hidden="true"></i>
-<img src="../image/user.png" alt="" />
+<img src="https://mokx-chat.netlify.app/image/user.png" alt="" />
 <div>
     <p className=''>Arya</p>   
     <small>Vedic Ai Bot</small>
